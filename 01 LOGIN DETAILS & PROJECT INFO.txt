@@ -1,0 +1,16 @@
+**Log on to codeastro.com for more projects!**
+
+**Developed by ateesh**
+
+**Recommended Python Version 2.x or 3.x**
+
+
+- You can register yourself in order to continue using
+
+OR
+
+
+**Login Details**
+
+Username: ateesh
+Password: ateesh
